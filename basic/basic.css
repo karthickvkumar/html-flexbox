@@ -1,0 +1,48 @@
+.header-text{
+    color: #fa48d0;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    /* text-shadow: 2px 0px; */
+}
+.paragraph{
+    text-indent: 100px;
+    letter-spacing: 2px;
+    font-family: 'Dancing Script', cursive;
+    /* line-height: 4.2; */
+    /* word-spacing: 10px */
+}
+.span-tag{
+    font-style: italic;
+    font-weight: 500;
+    font-size: 28px;
+    color: white;
+    background-color: royalblue;
+}
+.background{
+    width: 800px;
+    height: 800px;
+    background-image: url(https://img.etimg.com/photo/msid-68721421,quality-100/nature.jpg);
+}
+.btn{
+    /* width: 150px;
+    height: 50px; */
+    padding-left: 45px;
+    padding-right: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    font-size: 24px;
+    font-weight: 800;
+    background-color: #00d962;
+    /* border-color: #d900bc;
+    border-width: 5px;
+    border-style: dashed; */
+    border: 5px #d9ae00 dashed;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+}
+.arrow{
+    font-size: 34px;
+}
